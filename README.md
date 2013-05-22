@@ -1,5 +1,4 @@
-# Delta - The Free jQuery UI Theme from Kiandra IT 
+# MASTER - The Free jQuery UI Theme from LULATO 
 
-### [View Demo](http://kiandra.github.com/Delta-jQuery-UI-Theme)
+### [View Demo](#)
 
-Licensed under MIT/GPL.
